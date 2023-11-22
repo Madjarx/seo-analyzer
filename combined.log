@@ -1,0 +1,54 @@
+{"code":"MODULE_NOT_FOUND","level":"error","message":"Error: Cannot find module '/Users/lukaradisavljevic/Projects/seo-analyzer/worker.js'","requireStack":[],"stack":"Error: Cannot find module '/Users/lukaradisavljevic/Projects/seo-analyzer/worker.js'\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at MessagePort.<anonymous> (node:internal/main/worker_thread:164:24)\n    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)\n    at exports.emitMessage (node:internal/per_context/messageport:23:28)"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.7255859375,"1":2.26708984375,"2":2.14892578125,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.7255859375,"1":2.26708984375,"2":2.14892578125,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.7255859375,"1":2.26708984375,"2":2.14892578125,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.7255859375,"1":2.26708984375,"2":2.14892578125,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.7255859375,"1":2.26708984375,"2":2.14892578125,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.66748046875,"1":2.26220703125,"2":2.14794921875,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.66748046875,"1":2.26220703125,"2":2.14794921875,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.66748046875,"1":2.26220703125,"2":2.14794921875,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.66748046875,"1":2.26220703125,"2":2.14794921875,"level":"info","message":"CPU usage:"}
+{"0":"https://Betkentucky.com","1":"https://Betmaine.com","2":"https://Gambling.com","3":"https://Usatoday.com/betting","4":"https://Betmassachusetts.com","5":"https://Rotowire.com","6":"https://Betvirginia.com","7":"","level":"debug","message":"Results:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.25537109375,"1":2.2255859375,"2":2.14892578125,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.25537109375,"1":2.2255859375,"2":2.14892578125,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.25537109375,"1":2.2255859375,"2":2.14892578125,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.15478515625,"1":2.205078125,"2":2.14208984375,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.15478515625,"1":2.205078125,"2":2.14208984375,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.15478515625,"1":2.205078125,"2":2.14208984375,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.15478515625,"1":2.205078125,"2":2.14208984375,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.15478515625,"1":2.205078125,"2":2.14208984375,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.14208984375,"1":2.20166015625,"2":2.14111328125,"level":"info","message":"CPU usage:"}
+{"code":"MODULE_NOT_FOUND","level":"error","message":"Error: Cannot find module '/Users/lukaradisavljevic/Projects/seo-analyzer/worker.js'","requireStack":[],"stack":"Error: Cannot find module '/Users/lukaradisavljevic/Projects/seo-analyzer/worker.js'\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at MessagePort.<anonymous> (node:internal/main/worker_thread:164:24)\n    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)\n    at exports.emitMessage (node:internal/per_context/messageport:23:28)"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.1123046875,"1":2.08935546875,"2":2.06103515625,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.02294921875,"1":2.07080078125,"2":2.0546875,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.02294921875,"1":2.07080078125,"2":2.0546875,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.02294921875,"1":2.07080078125,"2":2.0546875,"level":"info","message":"CPU usage:"}
+{"level":"info","message":"Memory usage:"}
+{"0":2.02294921875,"1":2.07080078125,"2":2.0546875,"level":"info","message":"CPU usage:"}
+{"code":"MODULE_NOT_FOUND","level":"error","message":"Error: Cannot find module '/src/worker.js'","requireStack":[],"stack":"Error: Cannot find module '/src/worker.js'\n    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n    at Module._load (node:internal/modules/cjs/loader:920:27)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at MessagePort.<anonymous> (node:internal/main/worker_thread:164:24)\n    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)\n    at exports.emitMessage (node:internal/per_context/messageport:23:28)"}
+{"level":"error","message":"Error: Invalid URL: ","stack":"Error: Invalid URL: \n    at /Users/lukaradisavljevic/Projects/seo-analyzer/src/ThreadPool.js:17:16\n    at new Promise (<anonymous>)\n    at ThreadPool.execute (/Users/lukaradisavljevic/Projects/seo-analyzer/src/ThreadPool.js:13:12)\n    at /Users/lukaradisavljevic/Projects/seo-analyzer/src/index.js:41:50\n    at Array.map (<anonymous>)\n    at Object.<anonymous> (/Users/lukaradisavljevic/Projects/seo-analyzer/src/index.js:41:22)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Module._load (node:internal/modules/cjs/loader:958:12)"}
+{"level":"error","message":"Error: Invalid URL: ","stack":"Error: Invalid URL: \n    at /Users/lukaradisavljevic/Projects/seo-analyzer/src/ThreadPool.js:17:16\n    at new Promise (<anonymous>)\n    at ThreadPool.execute (/Users/lukaradisavljevic/Projects/seo-analyzer/src/ThreadPool.js:13:12)\n    at /Users/lukaradisavljevic/Projects/seo-analyzer/src/index.js:30:50\n    at Array.map (<anonymous>)\n    at Object.<anonymous> (/Users/lukaradisavljevic/Projects/seo-analyzer/src/index.js:30:22)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Module._load (node:internal/modules/cjs/loader:958:12)"}
+{"level":"error","message":"Error: Invalid URL: ","stack":"Error: Invalid URL: \n    at /Users/lukaradisavljevic/Projects/seo-analyzer/src/ThreadPool.js:17:16\n    at new Promise (<anonymous>)\n    at ThreadPool.execute (/Users/lukaradisavljevic/Projects/seo-analyzer/src/ThreadPool.js:13:12)\n    at /Users/lukaradisavljevic/Projects/seo-analyzer/src/index.js:30:50\n    at Array.map (<anonymous>)\n    at Object.<anonymous> (/Users/lukaradisavljevic/Projects/seo-analyzer/src/index.js:30:22)\n    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n    at Module.load (node:internal/modules/cjs/loader:1117:32)\n    at Module._load (node:internal/modules/cjs/loader:958:12)"}
+{"level":"error","message":"Error: Request failed with status code 404","stack":"Error: Request failed with status code 404\n    at Worker.<anonymous> (/Users/lukaradisavljevic/Projects/seo-analyzer/src/ThreadPool.js:26:18)\n    at Worker.emit (node:events:513:28)\n    at MessagePort.<anonymous> (node:internal/worker:243:53)\n    at [nodejs.internal.kHybridDispatch] (node:internal/event_target:737:20)\n    at exports.emitMessage (node:internal/per_context/messageport:23:28)"}
